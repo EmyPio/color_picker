@@ -1,0 +1,66 @@
+body {
+ height: 100vh;
+width: 100vw;
+background-color:gold;
+
+justify-content: center;
+display: flex;
+align-items: center;
+
+}
+button{
+    height:50px;
+    width: 50px;
+    border: 2px,black;
+    margin: 5px; 
+    
+   
+    align-items: center;
+    border-radius: 35%;
+
+}
+button:hover{
+   cursor: pointer;
+   opacity: 0.4;
+
+}
+#yellow{
+    background-color: yellow;
+    border-radius: 50%;
+
+}
+#pink{
+    background-color: pink;
+}
+#turquoise{
+    background-color: turquoise;
+}
+#lime{
+    background-color: lime;
+    border-radius: 50%;
+}
+#purple{
+    background-color:purple;
+    border-radius: 50%;
+
+}
+#lightsalmon{
+    background-color: lightsalmon;
+}
+#red{
+    background-color: red;
+    border-radius: 50%;
+}
+#orange{
+    background-color: orange;
+}
+#blue{
+    background-color: blue;
+    border-radius: 50%;
+}
+#text{
+    color: black;
+    font-size: 25px;
+
+    align-items: flex-start;
+}
